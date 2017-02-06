@@ -1,2 +1,2 @@
 # vr-democracy
-A voting system in VR
+A voting system in VR. 🙌
